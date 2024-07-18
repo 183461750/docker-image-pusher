@@ -3,7 +3,7 @@ name: Docker Images One
 on:
   push:
     branches:
-      - main-close
+      - ali-iuin-close
 
 jobs:
   deploy:
