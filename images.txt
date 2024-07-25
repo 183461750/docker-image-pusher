@@ -1,4 +1,5 @@
 node:14.21.1-slim
+maven:3.8.1-amazoncorretto-8
 
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
