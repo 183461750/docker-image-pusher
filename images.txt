@@ -1,6 +1,7 @@
 node:14.21.1-slim
 maven:3.8.1-amazoncorretto-8
 openjdk:8u342-oracle
+docker pull docker/dockerfile:1.4
 
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
