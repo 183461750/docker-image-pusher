@@ -1,3 +1,9 @@
+
+telegraf:latest
+influxdb:1.8
+chronograf:latest
+kapacitor:latest
+
 node:14.21.1-slim
 maven:3.8.1-amazoncorretto-8
 openjdk:8u342-oracle
