@@ -1,4 +1,6 @@
 
+alpine:3.12
+
 telegraf:latest
 influxdb:1.8
 chronograf:latest
