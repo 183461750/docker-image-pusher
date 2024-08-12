@@ -36,3 +36,16 @@ portainer:latest
 ---
 
 - 参考仓库 [@tech-shrimp/docker_image_pusher](https://github.com/tech-shrimp/docker_image_pusher)
+
+## 解决需要使用域名的问题
+
+需求: 有些地方使用域名全路径去拉取镜像太麻烦了, 写死到各个地方也不太好
+
+通过执行脚本将镜像拉取到本地并打标好, 实现解耦, 减少维护成本
+
+[脚本内容](./shells/pull_and_tag.sh)
+
+```shell
+## 执行脚本, 按提示操作
+bash pull_and_tag.sh
+```
