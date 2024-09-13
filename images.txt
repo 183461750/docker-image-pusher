@@ -1,4 +1,6 @@
 
+registry.cn-guangzhou.aliyuncs.com/keee/oraclejdk:base-skywalking
+
 alpine:3.12
 
 telegraf:latest
