@@ -1,7 +1,6 @@
 
+docker
 kasmweb/firefox:1.14.0
-selenium/node-chrome
-selenium/standalone-chrome
 
 registry.cn-guangzhou.aliyuncs.com/keee/oraclejdk:base-skywalking
 
