@@ -1,5 +1,5 @@
 
-m1k1o/neko:arm-chromium
+vital987/chrome-novnc:latest
 
 registry.cn-guangzhou.aliyuncs.com/keee/oraclejdk:base-skywalking
 
