@@ -1,5 +1,5 @@
 
-vital987/chrome-novnc:latest
+kasmweb/chrome
 
 registry.cn-guangzhou.aliyuncs.com/keee/oraclejdk:base-skywalking
 
