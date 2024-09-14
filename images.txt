@@ -1,5 +1,5 @@
 
-kasmweb/chrome
+kasmweb/chrome:1.14.0
 
 registry.cn-guangzhou.aliyuncs.com/keee/oraclejdk:base-skywalking
 
