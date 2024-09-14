@@ -1,5 +1,5 @@
 
-ghcr.io/m1k1o/neko/arm-firefox:latest
+m1k1o/neko:arm-chromium
 
 registry.cn-guangzhou.aliyuncs.com/keee/oraclejdk:base-skywalking
 
