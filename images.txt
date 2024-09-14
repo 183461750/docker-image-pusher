@@ -1,4 +1,5 @@
 
+kasmweb/firefox
 selenium/node-chrome
 selenium/standalone-chrome
 
