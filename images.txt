@@ -1,4 +1,6 @@
 
+m1k1o/neko:firefox
+
 registry.cn-guangzhou.aliyuncs.com/keee/oraclejdk:base-skywalking
 
 alpine:3.12
