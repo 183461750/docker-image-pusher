@@ -1,4 +1,5 @@
 
+centos:centos7.9.2009
 dockurr/windows:latest
 xuxueli/xxl-job-admin:2.4.1
 jlesage/firefox
